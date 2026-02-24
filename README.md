@@ -1,6 +1,8 @@
 [Français]
 
-Le projet BackMapping (BM) a pour objectif de proposer une solution, modulaire et paramétrable, de rétro-ingénierie et de rétro-cartographie.
+"L’archéologie de l’architecture d’entreprise”
+
+Le projet Archeo a pour objectif de proposer une solution, modulaire et paramétrable, de rétro-ingénierie et de rétro-cartographie.
 
 L'idée de l'outil repose sur le principe de paramétrage et de versionning des sources d'information à traiter en entrée, comme des systèmes situés en aval qu'il sera susceptible d'alimenter.
 
@@ -14,7 +16,9 @@ Une extension, dédiée au traitement du langage naturel métier sous-jacent, de
 
 [English]
 
-The BackMapping (BM) project aims to provide a modular and configurable solution for reverse engineering and reverse mapping.
+"The archaeology of enterprise architecture"
+
+The Archeo project aims to provide a modular and configurable solution for reverse engineering and reverse mapping.
 
 The tool's concept is based on the principle of parameterizing and versioning both the input data sources and the downstream systems it will feed.
 
