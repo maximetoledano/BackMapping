@@ -1,3 +1,5 @@
+<img title="Archeo" alt="Alt text" src="/images/Archeo.png">
+
 [Français]
 
 "L’archéologie de l’architecture d’entreprise”
